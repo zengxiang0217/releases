@@ -12,7 +12,7 @@ Latest: [Typemore v1.0.1](https://github.com/zengxiang0217/releases/releases/tag
 
 A macOS real-time voice translator. Speak into the mic, the other side hears the translation in their language. Four hot-swappable backends (OpenAI Realtime / Qwen-Omni / Qwen Pipeline / Qwen3-Omni). Mini-mode for face-to-face meetings, archive history with cross-session search + LLM summaries, and full keyboard control. Source: [Ooze](https://github.com/zengxiang0217/Ooze).
 
-Latest: [VoiceBridge v0.91.0](https://github.com/zengxiang0217/releases/releases/tag/voicebridge-v0.91.0)
+Latest: [VoiceBridge v0.92.0](https://github.com/zengxiang0217/releases/releases/tag/voicebridge-v0.92.0)
 
 ## Realtime Translator
 
