@@ -18,7 +18,7 @@ Latest: [VoiceBridge v0.92.0](https://github.com/zengxiang0217/releases/releases
 
 A macOS menu-bar live-caption + translation overlay. Captures Zoom / system / mic audio, transcribes with Whisper or Apple Speech, translates with GPT or the Realtime API. Floating draggable overlay with click-through, 12 global hotkeys, per-session translation cache, glossary with auto-suggest, WebVTT subtitle export, and one-click "Save meeting notes" that bundles an AI summary with the full transcript. Source: [realtime_translation](https://github.com/zengxiang0217/realtime_translation).
 
-Latest: [Realtime Translator 0.94.0](https://github.com/zengxiang0217/releases/releases/tag/rt-v0.94.0)
+Latest: [Realtime Translator 0.95.0](https://github.com/zengxiang0217/releases/releases/tag/rt-v0.95.0)
 
 ---
 
