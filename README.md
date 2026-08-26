@@ -24,7 +24,7 @@ Latest: [Realtime Translator 0.95.0](https://github.com/zengxiang0217/releases/r
 
 Built on the Realtime Translator engine — a macOS meeting-minutes & interview-notes workbench. In-meeting quick notes typed into the floating overlay become priority signals for the AI summary; after the meeting a two-pane canvas pairs an editable AI summary with the full transcript, where clicking any sentence replays the session audio from that moment. Bot-free system-audio capture, live CN/EN translation captions, 7 summary templates with editable prompts (incl. interview Q&A reconstruction). Source: [realtime_translation](https://github.com/zengxiang0217/realtime_translation).
 
-Latest: [MeetingNotes 1.3.2](https://github.com/zengxiang0217/releases/releases/tag/meeting-notes-v1.3.2)
+Latest: [MeetingNotes 1.4.0](https://github.com/zengxiang0217/releases/releases/tag/meeting-notes-v1.4.0)
 
 ---
 
