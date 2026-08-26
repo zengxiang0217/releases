@@ -20,11 +20,11 @@ A macOS menu-bar live-caption + translation overlay. Captures Zoom / system / mi
 
 Latest: [Realtime Translator 0.95.0](https://github.com/zengxiang0217/releases/releases/tag/rt-v0.95.0)
 
-## Meeting Notes（会议纪要）
+## MeetingNotes（会议纪要）
 
 Built on the Realtime Translator engine — a macOS meeting-minutes & interview-notes workbench. In-meeting quick notes typed into the floating overlay become priority signals for the AI summary; after the meeting a two-pane canvas pairs an editable AI summary with the full transcript, where clicking any sentence replays the session audio from that moment. Bot-free system-audio capture, live CN/EN translation captions, 7 summary templates with editable prompts (incl. interview Q&A reconstruction). Source: [realtime_translation](https://github.com/zengxiang0217/realtime_translation).
 
-Latest: [会议纪要 v0.1.0](https://github.com/zengxiang0217/releases/releases/tag/meeting-notes-v0.1.0)
+Latest: [MeetingNotes v0.2.0](https://github.com/zengxiang0217/releases/releases/tag/meeting-notes-v0.2.0)
 
 ---
 
